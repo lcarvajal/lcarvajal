@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 Projects I'm working on:
-- 🐼 A talking panda app that helps people practice English through listening to and telling jokes.
-- 😴 An app that tells you what to work on next when you get bored of learning something.
+- 🎓 A web app that nudges users toward learning goals.
+- 🐼 A talking panda app that helps users practice English through listening to and telling jokes.
 
 Languages I'm familiar with:
 - Swift
@@ -11,3 +11,4 @@ Languages I'm familiar with:
 
 What I'm learning:
 - React
+- FastAPI

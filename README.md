@@ -1,7 +1,3 @@
-## Hi there 👋
-
-I've been coding for 10 years!
-
 # Achievements 
 - [Tip Yourself](https://help.earnin.com/hc/en-us/articles/360041192274-How-does-Tip-Yourself-work) - An iOS and Android that helped people save money to pay off credit card debt and student loans. Aquired by Earnin.
 - [News Hack](https://github.com/Lcarvajal-zz/News-Hack) - An iOS and Android app for reading The NYTimes, The Wall Street Journal, and USAToday for free.
@@ -21,3 +17,9 @@ I'm familiar with:
 I'm learning:
 - React
 - FastAPI
+
+## About me 
+
+I've been coding for 10 years!
+
+I play the piano and ride my bike in my free time.

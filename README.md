@@ -17,9 +17,3 @@ I'm familiar with:
 I'm learning:
 - React
 - FastAPI
-
-## About me 
-
-I've been coding for 10 years!
-
-I play the piano and ride my bike in my free time.

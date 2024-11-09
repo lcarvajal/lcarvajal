@@ -12,11 +12,12 @@ I've been coding for 10 years!
 
 # Languages
 
-Languages I'm familiar with:
+I'm familiar with:
 - Swift
+- Kotlin
 - Python
 - SQL
 
-What I'm learning:
+I'm learning:
 - React
 - FastAPI

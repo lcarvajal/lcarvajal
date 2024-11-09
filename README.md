@@ -3,8 +3,8 @@
 - [News Hack](https://github.com/Lcarvajal-zz/News-Hack) - iOS and Android app for reading The NYTimes, The Wall Street Journal, and USAToday for free.
 
 # Current projects
-- [Never Bored Learning](https://github.com/lcarvajal/never-bored-learning) - A web app that nudges users toward learning goals.
-- [Haha Panda](https://github.com/lcarvajal/joking-panda-ios) - A talking panda app that helps users practice English through listening to and telling jokes.
+- [Never Bored Learning](https://github.com/lcarvajal/never-bored-learning) - React + FastAPI app that nudges users toward learning goals.
+- [Haha Panda](https://github.com/lcarvajal/joking-panda-ios) - iOS app that helps users practice English through listening to and telling jokes.
 
 # Languages
 

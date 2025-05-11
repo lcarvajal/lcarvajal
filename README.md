@@ -13,5 +13,5 @@ I'm familiar with:
 - SQL
 
 I'm learning:
-- React
-- Elixir
+- Typescritp + NextJS
+- Elixir + Phoenix

@@ -13,5 +13,5 @@ I'm familiar with:
 - SQL
 
 I'm learning:
-- Typescritp + NextJS
+- Typescript + NextJS
 - Elixir + Phoenix

@@ -4,3 +4,4 @@
 
 # Current projects
 - [Friends in Flats](https://www.friends-in-flats.com) - NextJS + Supabase site for booking shared flats
+- Speak - Phoenix + iOS app for speaking with friends in foreign languages

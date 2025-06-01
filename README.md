@@ -3,15 +3,4 @@
 - [News Hack](https://github.com/Lcarvajal-zz/News-Hack) - iOS and Android app for reading The NYTimes, The Wall Street Journal, and USAToday for free
 
 # Current projects
-- [Friends in Flats](https://www.friends-in-flats.com) - NextJS app for booking shared flats
-
-# Languages
-
-I'm familiar with:
-- Swift
-- Python
-- SQL
-
-I'm learning:
-- Typescript + NextJS
-- Elixir + Phoenix
+- [Friends in Flats](https://www.friends-in-flats.com) - NextJS + Supabase site for booking shared flats

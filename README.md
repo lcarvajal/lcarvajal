@@ -1,8 +1,8 @@
 # Achievements 
-- [Mimo](https://mimo.org/) `First product manager` - iOS + Android app helping millions learn how to code
-- [Tip Yourself](https://help.earnin.com/hc/en-us/articles/360041192274-How-does-Tip-Yourself-work) `CTO` - iOS + Android app + Rails app helping people save money to pay off credit card debt and student loans (Acquired by Earnin)
-- [News Hack](https://github.com/Lcarvajal-zz/News-Hack) - iOS + Android app for reading The NYTimes, The Wall Street Journal, and USAToday for free
+- [Tip Yourself](https://help.earnin.com/hc/en-us/articles/360041192274-How-does-Tip-Yourself-work): Developed the `iOS` + `Android` + `Rails` app, helping people pay off debt and student loans (acquired by Earnin)
+- [Mimo](https://mimo.org/): Developed the `web development` track, helping 1M+ users learn to code
+- [News Hack](https://github.com/Lcarvajal-zz/News-Hack): Developed the `iOS` + `Android` app helping broke students read The NYTimes, The WSJ, and USAToday for free
 
 # Current projects
-- [Friends in Flats](https://www.friends-in-flats.com) `Product engineer` - NextJS + Supabase site for booking shared flats
-- Speak - iOS + Phoenix app for speaking with friends in foreign languages
+- [Friends in Flats](https://www.friends-in-flats.com): `NextJS` + `Supabase` site for booking shared flats
+- Speak - `iOS` + `Phoenix` app for speaking with friends in foreign languages
